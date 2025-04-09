@@ -1,7 +1,7 @@
 # Core dependencies
 rerun-sdk==0.22.1
 rerun-animation==0.1.4
-numpy==2.2.4
+numpy>=1.23,<1.27
 colour==0.1.5
 
 # Model processing
